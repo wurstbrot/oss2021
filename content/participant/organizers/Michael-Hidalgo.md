@@ -5,7 +5,7 @@ company: Glasswall
 job_title:
 facebook:
 linkedin: 
-twitter: 
+twitter: michael_hidalgo
 website:
 notes:
 status: 

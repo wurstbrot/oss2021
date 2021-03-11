@@ -15,7 +15,7 @@ status       : draft
 description  :
 organizers   :
     - Timo Pagel
-youtube_link : 
+youtube_link : AElSBKSizc
 zoom_link    : https://zoom.us/j/98439115985?pwd=WnREL25sUzBlcnAraXpyaDkveHNWQT09
 ---
 
@@ -26,3 +26,5 @@ As a developer, the Cluster Scanner works out of the box. As a system operator, 
 History, DevSecOps journey, use cases, architecture and the different security scans of the Cluster Scanner will be described. Feedback from you is very welcome in this talk.
 
 Please be aware that the Cluster Scanner is not finished yet and the target of this talk is to get early feedback. The Cluster Scanner will be open sourced by SDA SE after it is developed.
+
+https://www.youtube.com/watch?v=_AElSBKSizc
